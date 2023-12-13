@@ -1,5 +1,4 @@
 # Note Taker with Express.js
-[![Generic badge](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://shields.io/)
 
 ## Description
 A simple to use note taking app that utilizes Node.js and Express.js to write and save notes. The application will use Express.js backend and will savbe and retriecve note data from a JSON file.
@@ -27,17 +26,4 @@ THEN that note appears in the right-hand column<br />
 WHEN I click on the Write icon in the navigation at the top of the page<br />
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Screenshots
-Landing Page
-![](./public/assets/images/homepage.PNG)
-
-Notes Page
-![](./public/assets/images/notespage.PNG)
-
-## Deployment
-https://notes-are-kee.herokuapp.com/
-
-## Contact
-
-- [GitHub](https://github.com/viakeegan 'GitHub')
-- [Email](mailto:viakeegan@gmail.com 'Email')
+Author: Patric Xiong
